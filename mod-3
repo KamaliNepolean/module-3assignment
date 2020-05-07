@@ -23,7 +23,7 @@
           </button>
         </div><!-- navbar header -->
 
-        <div class="collapse navbar-collapse" id="collapsable-nav">
+        <div  class="collapse navbar-collapse" id="collapsable-nav">
           <ul id="nav-list" class="nav navbar-nav navbar-right visible-xs">
             <li><a href="#beef">Beef</a></li>
             <li><a href="#chicken">Chicken</a></li>
